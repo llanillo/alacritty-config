@@ -1,2 +1,3 @@
-# alacritty-config
-Personal alacritty config
+# Alacritty Config
+
+Personal alacritty configuration file
